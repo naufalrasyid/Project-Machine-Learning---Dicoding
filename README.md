@@ -1,4 +1,5 @@
-# Project-Machine-Learning (Dicoding)
+# Project-Machine-Learning Image Classification(Dicoding)
+# Dataset Rock Paper Scissor
 
 Materi yang dipelajari :
 * Data Introduction : Pengenalan terhadap data dan bagaimana mempersiapkannya untuk diproses dengan machine learning.
