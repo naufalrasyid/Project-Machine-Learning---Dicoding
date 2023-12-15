@@ -1,4 +1,4 @@
-# Project-Machine-Learning Image Classification(Dicoding)
+# Project Machine Learning - Image Classification(Dicoding)
 # Dataset Rock Paper Scissor
 
 Materi yang dipelajari :
